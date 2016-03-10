@@ -1,0 +1,44 @@
+Q4a.Find the number of papers in each area above
+: UNKNOWN: 1666745
+  Theory: 10505
+  ML-AI: 20539
+  Database: 10207
+  Systems: 4664
+
+Q4b.Find the TOP-20 authors who published the most number of papers in "Database" (author published in multiple areas will be counted in all those areas)
+: "Divesh Srivastava";134
+  "Surajit Chaudhuri";113 
+  "Jiawei Han";105
+  "Jeffrey F. Naughton";102
+  "Philip S. Yu";101
+  "Hector Garcia-Molina";99
+  "H. V. Jagadish";98
+  "Raghu Ramakrishnan";97
+  "Michael Stonebraker";85
+  "Beng Chin Ooi";85
+  "Rakesh Agrawal";81
+  "Nick Koudas";80
+  "Michael J. Carey";79
+  "David J. DeWitt";78
+  "Kian-Lee Tan";78
+  "Christos Faloutsos";74
+  "Gerhard Weikum";72
+  "Serge Abiteboul";70
+  "Michael J. Franklin";70
+  "Divyakant Agrawal";66
+
+Q4c.Find the number of authors who published in exactly two of the four areas (do not consider UNKNOWN)
+: 2765
+
+Q4d.Find the number of authors who wrote more journal papers than conference papers (irrespective of research areas)
+: 120604
+
+Q4e.Find the top-5 authors who published the maximum number of papers (journal OR conference) since 2000, among the authors who have published at least one "Database" paper (in a conference)
+: "Wei Wang";1106
+  "Wei Zhang";823
+  "Yang Yang";820
+  "Jing Li";800
+  "Tao Li";723
+
+
+  

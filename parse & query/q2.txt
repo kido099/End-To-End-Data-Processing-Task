@@ -1,0 +1,3 @@
+1.Count the number of tuples in Inproceedings: 1712660
+2.Count the number of tuples in Article: 1373035
+3.Count the number of tuples in Authorship (note that Authorship eventually should have all distinct tuples): 8806789
